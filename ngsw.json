@@ -1,0 +1,81 @@
+{
+  "configVersion": 1,
+  "timestamp": 1702371782583,
+  "index": "https://patilrushikesh247.github.io/angularUpdatedpwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/favicon.ico",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/index.html",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/main.8e67ca541d076339.js",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/manifest.webmanifest",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/polyfills.c1716f4c6acab4e7.js",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/runtime.d77c143294739b15.js",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-128x128.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-144x144.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-152x152.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-192x192.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-384x384.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-512x512.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-72x72.png",
+        "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/index.html": "c4e7b360923f8b196af04e64345bc6c21b76332f",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/main.8e67ca541d076339.js": "51909a756258a410f33577e31bc06476570c190d",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/manifest.webmanifest": "9029f6d3215af80c5ff99a04e67e9a9357cf9cc0",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/polyfills.c1716f4c6acab4e7.js": "a3a5558ab87bd51cd9eb842b7896c8e7a8a3ce38",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/runtime.d77c143294739b15.js": "290d61ed15f4ef808fa52a2d073f2d4f3f4fa6cb",
+    "https://patilrushikesh247.github.io/angularUpdatedpwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
